@@ -40,7 +40,7 @@ August 2007 - April 2011
 **Work Experience**
 ---------------
 
-Sept 2012 - 
+Sept 2020 - 
 :   **University of Rwanda**, Kigali, Rwanda 
 
     - **Lecturer**, Department of Electrical & Electronic Engineering
