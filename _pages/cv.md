@@ -12,8 +12,10 @@ Kizito NKURIKIYEYEZU, Ph.D.
 > <img  src="/assets/icons/envelope-open-solid.svg" width="15" height="15">[kizito@wil-aoyama.jp](mailto:kizito@wil-aoyama.jp) 
 > <img src="/assets/icons/globe-americas-solid.svg" width="15" height="15">[qiriro.com](https://qiriro.com) 
 > <img src="/assets/icons/google-scholar-square.svg" width="15" height="15">[google scholar](https://scholar.google.com/citations?user=88SFvqYAAAAJ&hl=en) 
-> <img src="/assets/icons/twitter-brands.svg" width="15" height="15">[twitter](https://twitter.com/qiririo) 
-> <img src="/assets/icons/researcherid-square.svg" width="15" height="15">[research gate](https://www.researchgate.net/profile/Kizito_Nkurikiyeyezu2) 
+> <img src="/assets/icons/linkedin-brands.svg" width="15" height="15">[LinkedIn](https://www.linkedin.com/in/qiriro/) 
+> <img src="/assets/icons/twitter-brands.svg" width="15" height="15">[twitter](https://twitter.com/nkuzito) 
+> <img src="/assets/icons/researchgate.svg" width="15" height="15">[research gate](https://www.researchgate.net/profile/Kizito_Nkurikiyeyezu2) 
+> <img src="/assets/icons/orcid-brands.svg" width="15" height="15">[orcid](https://orcid.org/0000-0002-9128-7080)
 <br/><br/>
 
 
