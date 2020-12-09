@@ -1,0 +1,45 @@
+body {
+  width: 950px;
+  margin: auto;
+  padding: 5px 5px 5px 5px;
+}
+
+h1 {
+  font-size: 40px;
+  color: #1b1918;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #1b1918;
+  border-bottom: 2px solid #1b1918;
+}
+
+dt {
+  float: left;
+  clear: left;
+  width: 25%;
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 25%;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 7px;
+}
+
+blockquote {
+  text-align: center;
+  font-size: 16px;
+}
+
+hr {
+  border-top: 2px solid #1b1918;
+}
+.small-space {
+  word-spacing: 0.5em;
+}
