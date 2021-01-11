@@ -89,3 +89,5 @@ March 2018
 - **EIT/FE Certification**, National Council of Examiners for Engineering and Surveying (NCEES), Oklahoma City, USA, 2012
 - **Graduate Teaching Assistant**, Department of Electrical & Computer Engineering, Oklahoma Christian University. Okla. City, USA
 - **Presidential Scholarship**, Oklahoma Christian University. Oklahoma City, USA
+
+
