@@ -118,6 +118,7 @@ plugins:
   - bootstrap
   - material-sass
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
