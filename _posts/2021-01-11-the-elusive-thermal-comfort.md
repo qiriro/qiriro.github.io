@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Elusive Thermal Comfort
+title:  The elusive thermal comfort
 date:   Mon Jan 11 13:09:22 CAT 2021
 description: Why is it so hard to make everyone happy with a shared thermostat?
 categories: thermal comfort
