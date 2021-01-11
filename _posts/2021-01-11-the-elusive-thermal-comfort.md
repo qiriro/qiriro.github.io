@@ -22,13 +22,18 @@ requires a paradigm shift in how thermal comfort is provided [10].
 
 [^1]: ASHRAE, Standard 55---2017 Thermal Environmental Conditions for Human Occupancy, vol. 2017. Atlanta, GA, USA: ASHRAE, 2017.
 
-[2]	S. Roaf, L. Brotas, and F. Nicol, “Counting the costs of comfort,” Build. Res. Inf., vol. 43, no. 3, pp. 269–273, May 2015, doi: 10.1080/09613218.2014.998948.
-[3]	P. O. Fanger, “Assessment of man’s thermal comfort in practice,” Occup. Environ. Med., vol. 30, no. 4, pp. 313–324, Oct. 1973, doi: 10.1136/oem.30.4.313.
-[4]	J. van Hoof, “Forty years of Fanger’s model of thermal comfort: comfort for all?,” Indoor Air, vol. 18, no. 3, pp. 182–201, Jun. 2008, doi: 10.1111/j.1600-0668.2007.00516.x.
-[5]	R. J. de Dear and G. S. Brager, “Developing an adaptive model of thermal comfort and preference,” ASHRAE Trans., vol. 104, no. Pt 1A, pp. 145–167, 1998.
-[6]	R. J. de Dear et al., “Progress in thermal comfort research over the last twenty years.,” Indoor Air, vol. 23, no. 6, pp. 442–61, Dec. 2013, doi: 10.1111/ina.12046.
-[7]	E. Halawa and J. van Hoof, “The adaptive approach to thermal comfort: A critical overview,” Energy Build., vol. 51, pp. 101–110, Aug. 2012, doi: 10.1016/j.enbuild.2012.04.011.
-[8]	S. Roaf, F. Nicol, M. Humphreys, P. Tuohy, and A. Boerstra, “Twentieth century standards for thermal comfort: promoting high energy buildings,” Archit. Sci. Rev., vol. 53, no. 1, pp. 65–77, Feb. 2010, doi: 10.3763/asre.2009.0111.
-[9]	S. Tanabe, Y. Iwahashi, S. Tsushima, and N. Nishihara, “Thermal comfort and productivity in offices under mandatory electricity savings after the Great East Japan earthquake,” Archit. Sci. Rev., vol. 56, no. 1, pp. 4–13, Feb. 2013, doi: 10.1080/00038628.2012.744296.
-[10]	J. F. Nicol and S. Roaf, “Rethinking thermal comfort,” Build. Res. Inf., vol. 45, no. 7, pp. 711–716, Oct. 2017, doi: 10.1080/09613218.2017.1301698.
+[^2]:	S. Roaf, L. Brotas, and F. Nicol, “Counting the costs of comfort,” Build. Res. Inf., vol. 43, no. 3, pp. 269–273, May 2015, doi: 10.1080/09613218.2014.998948.
+
+[^3]:	P. O. Fanger, “Assessment of man’s thermal comfort in practice,” Occup. Environ. Med., vol. 30, no. 4, pp. 313–324, Oct. 1973, doi: 10.1136/oem.30.4.313.
+
+[^4]:	J. van Hoof, “Forty years of Fanger’s model of thermal comfort: comfort for all?,” Indoor Air, vol. 18, no. 3, pp. 182–201, Jun. 2008, doi: 10.1111/j.1600-0668.2007.00516.x.
+
+[^5]:	R. J. de Dear and G. S. Brager, “Developing an adaptive model of thermal comfort and preference,” ASHRAE Trans., vol. 104, no. Pt 1A, pp. 145–167, 1998.
+
+[^6]:	R. J. de Dear et al., “Progress in thermal comfort research over the last twenty years.,” Indoor Air, vol. 23, no. 6, pp. 442–61, Dec. 2013, doi: 10.1111/ina.12046.
+
+[^7]:	E. Halawa and J. van Hoof, “The adaptive approach to thermal comfort: A critical overview,” Energy Build., vol. 51, pp. 101–110, Aug. 2012, doi: 10.1016/j.enbuild.2012.04.011.
+[^8]:	S. Roaf, F. Nicol, M. Humphreys, P. Tuohy, and A. Boerstra, “Twentieth century standards for thermal comfort: promoting high energy buildings,” Archit. Sci. Rev., vol. 53, no. 1, pp. 65–77, Feb. 2010, doi: 10.3763/asre.2009.0111.
+[^9]:	S. Tanabe, Y. Iwahashi, S. Tsushima, and N. Nishihara, “Thermal comfort and productivity in offices under mandatory electricity savings after the Great East Japan earthquake,” Archit. Sci. Rev., vol. 56, no. 1, pp. 4–13, Feb. 2013, doi: 10.1080/00038628.2012.744296.
+[^10]:	J. F. Nicol and S. Roaf, “Rethinking thermal comfort,” Build. Res. Inf., vol. 45, no. 7, pp. 711–716, Oct. 2017, doi: 10.1080/09613218.2017.1301698.
 
