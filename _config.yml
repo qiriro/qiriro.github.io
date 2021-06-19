@@ -4,62 +4,69 @@
 
 title: qiriro # the website title (if blank, full name will be used instead)
 first_name: Kizito
-middle_name: 
-last_name: NKURIKIYEYEZU, Ph.D
+middle_name: N.
+last_name: NKURIKIYEYEZU
 email: kizito@wil-aoyama.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The boring, technical and theoretically interesting side of the geek inside me!
+    The boring, technical and theoretically interesting side of the geek inside me!
 footer_text: >
 
-  
+
+icon:  # the emoji used as the favicon
 url:  https://qiriro.com/
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
+
+# Dimensions
+max_width: 800px
+
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-# To achieve this, change serve_og_meta to true and then provide the URL of the
-# preview image as the value of og_image.
-serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username:  qiriro # your GitHub user name
-twitter_username: nkuzito # your Twitter handle
+github_username: qiriro
+gitlab_username: 
+twitter_username: nkuzito
 linkedin_username: # your LinkedIn user name
-scholar_userid: 88SFvqYAAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-9128-7080 # your ORCID ID
+scholar_userid: 88SFvqYAAAAJ
+orcid_id: 0000-0002-9128-7080
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Kizito_Nkurikiyeyezu2 # your profile on ResearchGate
+research_gate_profile: Kizito_Nkurikiyeyezu2
 blogger_url: # your blogger URL
+work_url: # work page URL
 keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
 
 contact_note: >
-  
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-276267118 # out your google-analytics code
+panelbear_analytics: He6DIzkedFQ # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog  # your blog must have a name for it to show up in the nav bar
-blog_description: 
+blog_name: qiriro.com  # your blog must have a name for it to show up in the nav bar
+blog_description: The boring, technical and theoretically interesting side of the geek inside me!
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -67,7 +74,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: qiriro # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -83,7 +90,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 10
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -105,7 +112,15 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
 
 # Plug-ins
 plugins:
@@ -115,10 +130,9 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
-  - bootstrap
-  - material-sass
-  - jekyll-sitemap
-  - jekyll-seo-tag
+
+# Extras
+github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -126,10 +140,10 @@ plugins:
 
 scholar:
 
-  last_name: NKURIKIYEYEZU
+  last_name: Nkurikiyeyezu
+  first_name: [Nkurikiyeyezu, K.]
 
-  #style: apa
-  style:  chicago-fullnote-bibliography
+  style: apa
   locale: en
 
   source: /_bibliography/
@@ -149,12 +163,18 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  true
-enable_mansory:           true
-enable_math:              true
-enable_tooltips:          false
-enable_darkmode:          false
-show_social_icons:        true
+enable_google_analytics:    false  # enables google analytics
+enable_panelbear_analytics: false  # enables panelbear analytics
+enable_mansory:             true   # enables automatic project cards arangement
+enable_math:                true   # enables math typesetting (uses MathJax)
+enable_tooltips:            false  # enables automatic tooltip links generated
+                                   # for each section titles on pages and posts
+enable_darkmode:            true   # enables switching between light/dark modes
+enable_navbar_social:       false  # enables displaying social links in the
+                                   # navbar on the about page
+enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
 # -----------------------------------------------------------------------------
 # Library versions
@@ -187,5 +207,6 @@ mdb:
 popper:
   version: "2.4.4"
   integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
-
-
+medium_zoom:
+  version: "1.0.6"
+  integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
