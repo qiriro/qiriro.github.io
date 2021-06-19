@@ -2,8 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My {% bibliography_count -f references --query @book[year <=2000] %}
-publications by categories in reversed chronological order.
+description: My publications by categories in reversed chronological order.
 years: [2021, 2020, 2019, 2018, 2017,2015]
 nav: true
 ---
