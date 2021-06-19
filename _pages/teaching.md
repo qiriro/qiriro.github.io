@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Current and past courses I thought.
+description: Current courses I teaching.
 nav: true
 ---
-
-
 
 <div class="container">
   <div class="row">
