@@ -143,8 +143,9 @@ scholar:
   last_name: Nkurikiyeyezu
   first_name: [Nkurikiyeyezu, K.]
 
-  style: apa
+  style: ieee
   locale: en
+  sort_by: year 
 
   source: /_bibliography/
   bibliography: papers.bib
