@@ -24,7 +24,7 @@ Kizito NKURIKIYEYEZU, Ph.D.
 
 April 2017 - March 2020
 :   **Aoyama Gakuin University**, Tokyo, Japan   
-    - **Ph.D.**, Engineering, Intelligence & Information   
+    - **Ph.D.**, Engineering (**Focus**: Intelligence & Information)   
     - **Ph.D.Thesis**: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/kizito-thesis.pdf" target="_blank">Affect-aware Intelligent Thermal Comfort   </a> 
     - **Supervisor**: [Professor Guillaume Lopez](http://www.wil.it.aoyama.ac.jp/~guillaume/cv_en.html)  
 
@@ -44,7 +44,7 @@ Sept 2020 - Present
 :   **University of Rwanda**, Kigali, Rwanda 
 
     - **Lecturer**, Department of Electrical & Electronic Engineering
-    
+
 Sept 2021 - Present 
 :   **Centre of Excellence in Biomedical Engineering and eHealth**, Kigali, Rwanda 
     - **Lecturer**
@@ -53,8 +53,8 @@ Sept 2021 - Present
 :   **African Center of Excellence in Internet of Things (ACEIoT)**, Kigali, Rwanda 
     - **Affiliated Lecturer**
 
-March 2020 - September
-:   **Aoyama Gakuin University**, Tokyo, Japan
+March 2020 - September 2020
+:   **Aoyama Gakuin University**, Japan
     - **Invited Researcher**, Department of Integrated Information Technology
     - Researcher at [Wearable Environment and Information Systems Laboratory](http://www.wil.it.aoyama.ac.jp/)
 
