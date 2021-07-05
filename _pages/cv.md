@@ -44,12 +44,15 @@ Sept 2020 - Present
 :   **University of Rwanda**, Kigali, Rwanda 
 
     - **Lecturer**, Department of Electrical & Electronic Engineering
+    
 Sept 2021 - Present 
 :   **Centre of Excellence in Biomedical Engineering and eHealth**, Kigali, Rwanda 
     - **Lecturer**
+
 Sept 2021 - Present 
 :   **African Center of Excellence in Internet of Things (ACEIoT)**, Kigali, Rwanda 
     - **Affiliated Lecturer**
+
 March 2020 - September
 :   **Aoyama Gakuin University**, Tokyo, Japan
     - **Invited Researcher**, Department of Integrated Information Technology
