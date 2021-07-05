@@ -40,18 +40,22 @@ August 2007 - April 2011
 **Work Experience**
 ---------------
 
-Sept 2020 - 
+Sept 2020 - Present 
 :   **University of Rwanda**, Kigali, Rwanda 
 
     - **Lecturer**, Department of Electrical & Electronic Engineering
-
+Sept 2021 - Present 
+:   **Centre of Excellence in Biomedical Engineering and eHealth**, Kigali, Rwanda 
+    - **Lecturer**
+Sept 2021 - Present 
+:   **African Center of Excellence in Internet of Things (ACEIoT)**, Kigali, Rwanda 
+    - **Affiliated Lecturer**
 March 2020 - September
 :   **Aoyama Gakuin University**, Tokyo, Japan
-
-    - **Invited Research Professor**, Department of Integrated Information Technology
+    - **Invited Researcher**, Department of Integrated Information Technology
     - Researcher at [Wearable Environment and Information Systems Laboratory](http://www.wil.it.aoyama.ac.jp/)
 
-March 2018 
+March 2019 
 :   **Université Jean Monnet**, Saint-Étienne, France
     - **Invited Researcher**, [Hubert Curien Laboratory](https://en.wikipedia.org/wiki/Hubert_Curien_Laboratory) 
     - Researched under the guidance of Professor [Pierre Maret](https://perso.univ-st-etienne.fr/mapi9921/)
@@ -60,9 +64,6 @@ April 2016 - January 2020
 :   **Aoyama Gakuin University**, Sagamihara, Japan
     - **Chat leader**, at Aoyama Gakuin University's [Chat Room](http://web.iec.aoyama.ac.jp/chat_room/fis) programme 
 
-June 2013- 
-:   **National Examination Gateway**, Kigali, Rwanda
-    - **Managing Director**, Appointed Managing Director of National Examination Gateway.
     
 March 2018 
 :   **Oklahoma Christian University**, Oklahoma City, USA
@@ -86,6 +87,7 @@ March 2018
 -----------------
 
 - **Outstanding Student Awards**, Department of Integrated information Technologies, Aoyama Gakuin University, 2019
+- **Monbukagakusho Scholarship**, 2016
 - **EIT/FE Certification**, National Council of Examiners for Engineering and Surveying (NCEES), Oklahoma City, USA, 2012
 - **Graduate Teaching Assistant**, Department of Electrical & Computer Engineering, Oklahoma Christian University. Okla. City, USA
 - **Presidential Scholarship**, Oklahoma Christian University. Oklahoma City, USA
