@@ -4,55 +4,85 @@ title: teaching
 permalink: /teaching/
 description: 
 nav: true
-nav_order: 2
-display_categories: [Undergraduate Program, Master program]
+nav_order: 5
 horizontal: false
 ---
-
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">EEE 3261 </h2>
+                    <p class="card-text">Embedded Systems</p>
+                    <div class="row ml-1 mr-1 p-0">
+                        <img class="card-img-top" src="/assets/img/ete3261.jpeg" alt="Card image cap">
+                    </div>
+                     <a href="https://qiriro.com/eee3261/" class="btn btn-danger">see course</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+           <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">EPE2165</h2>
+                    <p class="card-text">Analag electronics</p>
+                    <div class="row ml-1 mr-1 p-0">
+                        <img class="card-img-top" src="/assets/img/epe2165.jpg" alt="Card image cap">
+                    </div>
+                    <a href="https://qiriro.com/epe2165/" class="btn btn-danger">see course</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+           <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">ECS 6264</h2>
+                    <p class="card-text">IoT Operating Systems</p>
+                    <div class="row ml-1 mr-1 p-0">
+                        <img class="card-img-top" src="/assets/img/ecs6264.jpg" alt="Card image cap">
+                    </div>
+                    <a href="https://qiriro.com/ecs6264/" class="btn btn-danger">see course</a>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+   <hr>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title text-lowercase">ECS6262</h2>
+                    <p class="card-text">Computer design</p>
+                    <div class="row ml-1 mr-1 p-0">
+                        <img class="card-img-top" src="/assets/img/ecs6262.jpg" alt="Card image cap">
+                    </div>
+                    <a href="https://qiriro.com/ecs6264/" class="btn btn-danger">see course</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">BME6163</h2>
+                    <p class="card-text">Advanced Embedded Systems</p>
+                    <div class="row ml-1 mr-1 p-0">
+                        <img class="card-img-top" src="/assets/img/bme6163.jpeg" alt="Card image cap">
+                    </div>
+                    <a href="" class="btn btn-danger">see course</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">MSE6164</h2>
+                    <p class="card-text">Software Requirements Engineering</p>
+                    <div class="row ml-1 mr-1 p-0">
+                        <img class="card-img-top" src="/assets/img/ete3261.jpeg" alt="Card image cap">
+                    </div>
+                    <a href="" class="btn btn-danger">see course</a>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
 </div>
