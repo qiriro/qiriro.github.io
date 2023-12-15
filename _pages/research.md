@@ -7,6 +7,8 @@ dropdown: true
 children: 
     - title: cardiotocography
       permalink: /ctg/
+    - title: health cluster
+      permalink: /afretec/
     - title: diseases
       permalink: /idop/
     - title: adolescent pregnancy
